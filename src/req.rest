@@ -1,0 +1,34 @@
+GET http://localhost:3000/
+###
+GET http://localhost:3000/cart
+###
+GET http://localhost:3000/cats
+###
+GET http://localhost:3000/cats_products
+###
+GET http://localhost:3000/products
+###
+GET http://localhost:3000/products_comments
+###
+GET http://localhost:3000/sell
+###
+GET http://localhost:3000/user_cart
+###
+GET http://localhost:3000/hola
+###
+GET http://localhost:3000/cart/buy.json
+###
+GET http://localhost:3000/cats/cat.json
+###
+GET http://localhost:3000/cats_products/101.json
+###
+GET http://localhost:3000/products/40281.json
+###
+GET http://localhost:3000/products_comments/50921.json
+###
+GET http://localhost:3000/sell/publish.json
+###
+GET http://localhost:3000/user_cart/25801.json
+###
+GET http://localhost:3000/cart/hola
+###E
